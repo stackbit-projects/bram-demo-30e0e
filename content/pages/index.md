@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/halgatewood-com-OgvqXGL7XO4-unsplash.jpg
     background_image_opacity: 65
     content: |
       # Follow our project and help us build a better future
